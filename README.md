@@ -16,3 +16,9 @@
 | Combat      | service_combat         | Modular combat logic and attack handling.     |
 | Animation   | service_mob            | Animated movement and mob effects.            |
 | Projectiles | service_projectile     | Linear and curved projectile motion.          |
+
+## Controlls
+[X] - Attack
+[B] - Parry / Dodge
+[Y] - Consumable
+[A] - Pickup / Select
