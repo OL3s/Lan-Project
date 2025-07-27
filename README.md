@@ -1,5 +1,10 @@
 # Lan-Project
 
+## Todo
+- [ ] Add mobs and ai
+- [ ] Add attack projectiles and collisions
+- [ ] Add player actions
+
 ## Sprites
 [Download this for sprites later](https://umpatra.itch.io/1-bit-champion-generator)
 
